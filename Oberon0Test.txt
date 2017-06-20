@@ -1,0 +1,21 @@
+
+/* testkommentar */
+
+MODULE Sample;
+
+CONST a=2;b=6;
+
+PROCEDURE testfunc(hallo:INTEGER;huhu:STRING);
+
+VAR rectst : RECORD END;
+BEGIN
+
+
+END testfunc;
+
+BEGIN
+	WHILE hm DO END;
+	IF a<0 THEN
+		a := aufruf(a) + 1;
+	END
+END Sample .
